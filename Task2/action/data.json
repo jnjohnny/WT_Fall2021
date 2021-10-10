@@ -1,0 +1,22 @@
+[
+    {
+        "firstname": "Jonnny",
+        "lastttname": "Doee",
+        "age": "12",
+        "designation": "Senior Programmer",
+        "language": "PHP",
+        "email": "testemail@gmail.com",
+        "password": "1234567",
+        "image": ""
+    },
+    {
+        "firstname": "NEwMan",
+        "lastttname": "ABCDE",
+        "age": "20",
+        "designation": "Senior Programmer",
+        "language": "PHP",
+        "email": "abcde@gmail.com",
+        "password": "1234567",
+        "image": ""
+    }
+]
